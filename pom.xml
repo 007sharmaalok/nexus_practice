@@ -19,10 +19,10 @@
     <finalName>gym_equipments</finalName>
   </build>
   <distributionManagement>
-        <releaseRepository>
+        <repository>
             <id>maven-releases</id>
             <url>http://15.206.170.161:8081/repository/maven-releases/</url>
-        </releaseRepository>
+        </repository>
         <snapshotRepository>
             <id>maven-snapshots</id>
             <url>http://15.206.170.161:8081/repository/maven-snapshots/</url>
